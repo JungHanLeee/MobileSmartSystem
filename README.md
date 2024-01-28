@@ -14,9 +14,9 @@
 	LED – GPIO 6
 
 <h5>2.2 소프트웨어 부분</h5>
-윈도우에서 실행하는 viewer.py
-라즈베리파이에서 실행하는 gpio.py
-장치와 센서를 제어하는 controller.py
+윈도우에서 실행하는 viewer.py <br>
+라즈베리파이에서 실행하는 gpio.py <br>
+장치와 센서를 제어하는 controller.py <br>
 
 <h4>실행 과정 및 결과</h4>
 후진기어를 화면상에 위치한 버튼으로 가정하겠습니다.
